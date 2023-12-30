@@ -30,8 +30,5 @@ public class Funcionario_Program {
         System.out.println("");
         System.out.println("Dados atualizados abaixo: \n" + funcionario);
         System.out.println("");
-
-        System.out.print("Deseja continuar? ");
-        String escolha = sc.nextLine();
     }
 }
