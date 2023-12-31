@@ -1,5 +1,4 @@
 package Entities;
-
 public class Dollar {
     public static final double DOLLAR = 3.10;
     public static final double IOF = 6.00;
